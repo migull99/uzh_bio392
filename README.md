@@ -7,7 +7,7 @@ hello
 #### similar:
 ```diff
 + use of pandas
-+ with open() as
++ use of with open() as
 ```
 
 #### different:
